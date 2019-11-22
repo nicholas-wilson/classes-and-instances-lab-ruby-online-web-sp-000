@@ -1,3 +1,3 @@
 class Person
 end
-i = person.new
+i = Person.new
