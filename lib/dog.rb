@@ -1,3 +1,3 @@
 class Dog
 end
-brownie = dog.new
+brownie = Dog.new
